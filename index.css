@@ -1,0 +1,9 @@
+body {
+  background-color: #f0f0f0;
+}
+
+#btnDatos {
+  position: fixed;
+  left: 20px;
+  top: 20px;
+}
